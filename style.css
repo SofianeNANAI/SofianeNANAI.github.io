@@ -1,0 +1,31 @@
+header
+{
+text-align: center;
+}
+section
+{
+    text-align: end
+}
+aside
+{
+background-color: #e8e8e8;
+color: black;
+
+}
+footer{
+    background-color: #e8e8e8;
+
+}
+.Vivecss#part2{
+    float: right;
+}
+a{
+    color: black
+}
+input
+{
+    border-radius: 30px;
+    color: black;
+    height: 2em;
+    width: 500px
+}
